@@ -1,0 +1,11 @@
+AULA 1 - Estruturas de Dados
+
+-> Bubble Sort: Ordenação de Bolha
+
+	Chamado de bolha por "empurrar" o elemento mais "pesado" (maior) para o final 	do vetor (superfície) como se fosse uma bolha submersa.
+	Método: Compara dois elementos no início do vetor, se o anterior for maior que 	o posterior, troca os elementos de posição.
+		- Incremento o índice inicial
+		- Recomeça.
+
+Faça um programa em C para ordenar o seguinte vetor usando bubble sort:
+51 - 33 - 16 - 4 - 66 - 70 - 32 - 12 - 13 - 41

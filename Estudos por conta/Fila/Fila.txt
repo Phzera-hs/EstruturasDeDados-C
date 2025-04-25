@@ -13,5 +13,4 @@ Operações de uma fila:
 - Acesso ao elemento do início 
 - Destruição da fila
 
-Pode ser estática ou dinâmica
-
+Pode ser estática ou dinâmica e linear ou circular

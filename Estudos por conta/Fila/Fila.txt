@@ -1,0 +1,17 @@
+Fila
+
+Uma estrutura do tipo fila é uma sequencia de elemento do mesmo tipo.
+Seus elementos possuem estrutura interna, abstraída, ou seja, sua complexidade é arbitrária e não afeta o seu funcionamento.
+
+FIFO - First in First Out
+
+A inserção e exclusão de elementos ocorrem nas extremidades da fila. De um lado entra do outro sai = Final entra/insere | Inicio sai/remove
+
+Operações de uma fila:
+- Inserir um elemento ao final da fila
+- Remoção de um elemento no início
+- Acesso ao elemento do início 
+- Destruição da fila
+
+Pode ser estática ou dinâmica
+

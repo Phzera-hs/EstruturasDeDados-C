@@ -13,4 +13,6 @@ Operações de uma fila:
 - Acesso ao elemento do início 
 - Destruição da fila
 
-Pode ser estática ou dinâmica e linear ou circular
+Pode ser estática ou dinâmica e linear ou circular.
+
+O melhor método para se criar uma fila com struct é criando uma struct para o dado e uma struct que armazena o dado, junto com o inicio e o final da fila. (Independente se é uma fila dinâmica ou estática).
